@@ -2,12 +2,13 @@
   "videos": {
     "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu": {
       "title": "Club AID Video Guide",
-      "hd": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu.mp4",
+      "guide": true,
+      "hd": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu-1080.mp4",
       "sd": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu-720.mp4",
-      "poster": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu.jpg",
+      "poster": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu-cover.jpg",
+      "thumb": "1HcrmOr9I44wMxe8eU4RZlvcWTYeKK4Yu-sq.jpg",
       "ratio": "9/16",
-      "bg": "#04170d",
-      "guide": true
+      "bg": "#04170d"
     }
   }
 }
